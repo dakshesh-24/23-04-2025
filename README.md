@@ -1,2 +1,3 @@
 # 23-04-2025
-DS CLASS DEMO GIT SESSIO
+Data Science git session
+
